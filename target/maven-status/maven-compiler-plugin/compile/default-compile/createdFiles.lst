@@ -1,0 +1,10 @@
+com\accenture\codingtest\springbootcodingtest\controller\TaskController.class
+com\accenture\codingtest\springbootcodingtest\entity\Project.class
+com\accenture\codingtest\springbootcodingtest\controller\ProjectController.class
+com\accenture\codingtest\springbootcodingtest\service\UserService.class
+com\accenture\codingtest\springbootcodingtest\entity\User.class
+com\accenture\codingtest\springbootcodingtest\service\ProjectSericeimpl.class
+com\accenture\codingtest\springbootcodingtest\service\ProjectService.class
+com\accenture\codingtest\springbootcodingtest\service\TaskService.class
+com\accenture\codingtest\springbootcodingtest\entity\Task.class
+com\accenture\codingtest\springbootcodingtest\repository\ProjectRepo.class
